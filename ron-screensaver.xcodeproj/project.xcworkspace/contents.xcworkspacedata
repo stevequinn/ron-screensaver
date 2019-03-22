@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/steveq/dev/ron-screensaver/ron-screensaver.xcodeproj">
    </FileRef>
 </Workspace>
